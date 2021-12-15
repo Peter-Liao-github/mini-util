@@ -1,6 +1,5 @@
 <template lang="pug">
 div(class='py-1.5 px-3.5')
-  h1.text-2xl JS
   div
     h2.text-xl date
     h3.text-lg format
