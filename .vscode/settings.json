@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "tailwindCSS.includeLanguages": {
+    "plaintext": "html"
+  },
+  "tailwindCSS.emmetCompletions": true
+}

@@ -5,6 +5,6 @@ Some in common usage
 - time format
   -  date format
 
-## CSS(SCSS)
+## CSS(SCSS) /w Tailwind
 - flex 
   - between last row align left
