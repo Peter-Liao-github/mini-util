@@ -2,8 +2,11 @@
 Some in common usage
 
 ## JS
-- time format
-  -  date format
+- date
+  -  format
+
+- array
+  - unique element
 
 ## CSS(SCSS) /w Tailwind
 - flex 
