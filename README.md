@@ -2,7 +2,9 @@
 Some in common usage
 
 ## JS
-- date format
+- time format
+  -  date format
 
 ## CSS(SCSS)
-- flex between last row align left
+- flex 
+  - between last row align left
