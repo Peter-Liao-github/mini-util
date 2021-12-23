@@ -2,7 +2,10 @@
 div(class='py-1.5 px-3.5')
   a.text-blue-500(src='https://sass-scss-converter.netlify.app/') sass-scss-converter
   div
-    h2.text-xl flex wrap between last row align left
+    h2.text-xl
+      | flex wrap between last row align left
+      br
+      | (NOTE: parent only #[code.text-base.text-red-500.bg-red-100.rounded(class='p-0.5') .flex.flex-wrap], no #[code.text-base.text-red-500.bg-red-100.rounded(class='p-0.5') .justify-between])
     .flex.flex-wrap.mx-auto.w-48
       .mt-2.w-8.h-5.flex-between-last-row-align-left.bg-green-300(
         v-for='(item, index) in 7',
