@@ -12,7 +12,7 @@ export const dateFormat = (dateStr = '', format = 'YYYY-M-D') => {
   ]
   switch (format) {
     case 'YYYY-MM-DD':
-      month = `0${month}`
+      month = `0${month}`.slice(-2)
       day = `0${day}`
       break
 
